@@ -25,6 +25,8 @@ I am a senior IT student at Taif University with a strong foundation in web deve
 - Goal: Enhance the experience and navigation for pilgrims during the Hajj season
 - Tech Stack: SQL for database structure and HTML for user interface
 - Impact: Improved access to essential services through a user-friendly digital solution.
+ 
+  ![Hajj Application Screenshot](hajj-app.png)
   
   ---
 ### 📈Current Learning Path
