@@ -21,12 +21,12 @@ I am a senior IT student at Taif University with a strong foundation in web deve
   ---
 ### Featured Projects
 
-**Smart Application for Hajj & Umrah**
-- Goal: Enhance the experience and navigation for pilgrims during the Hajj season
-- Tech Stack: SQL for database structure and HTML for user interface
-- Impact: Improved access to essential services through a user-friendly digital solution.
- 
-  ![Hajj Application Screenshot](hajj-app.png)
+### 🕋 Smart Application for Hajj & Umrah (Yusr)
+- **Goal:** Enhance the experience and navigation for pilgrims during their spiritual journey.
+- **Tech Stack:** Flutter, Dart, Firebase (Auth & Firestore), and Google Gemini AI.
+- **Impact:** Improved access to essential services through a user-friendly interface and an AI-powered smart assistant.
+- **Detailed Documentation:** You can explore the full source code, technical implementation, and UI gallery in the [Yusr Project Repository](https://github.com/Reemkhalid1it/Yusr-AI-Powered-Pilgrimage-Companion).
+
   
   ---
 ### 📈Current Learning Path
