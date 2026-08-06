@@ -1,7 +1,7 @@
 <h1 align="center">
   <code>Hello, World.. I'm Reem Khalid</code>
 </h1>
-<h3 align="center">Software Developer     B.Sc. in Information Technology /h3>
+<h3 align="center">Software Developer · B.Sc. in Information Technology</h3>
 
 
 
