@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Reem Khalid </h1>
 <h3 align="center">Software Developer · IT Graduate, Taif University</h3>
 
-<p align="center">
-  I build clean, functional digital experiences — from the database up to the interface.
-</p>
+
 
 <p align="center">
   <a href="mailto:reemkhalid01it@gmail.com">✉️ reemkhalid01it@gmail.com</a> ·
@@ -83,14 +81,3 @@ Interactive Power BI dashboard on Azure, turning raw sales data into clear, acti
 
 ---
 
-###  Courses & Certifications
-
-- Fundamentals of Programming and Web Development — *TVTC*
-- Fundamentals of Database Management — *TVTC*
-- Artificial Intelligence Basics — *TVTC*
-
----
-
-<p align="center"><i>"Films have a certain place in a certain time period. Technology is forever."</i><br>— Hedy Lamarr</p>
-
-<p align="center">✦ Thank you for visiting ✦</p>
