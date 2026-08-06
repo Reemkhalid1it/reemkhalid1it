@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:reemkhalid01it@gmail.com">✉️ reemkhalid01it@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/reem-k-727592325">💼 LinkedIn</a> ·
-  <a href="https://reemkhalid1it.github.io/Portfolio/"> MyPortfolio</a>
+  <a href="https://reemkhalid1it.github.io/Portfolio/"> 🔍 MyPortfolio</a>
 
 </p>
 
