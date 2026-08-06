@@ -21,6 +21,28 @@
 
 ---
 
+###  Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-9c2b34?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E44D26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+**Soft skills:** Problem Solving · Team Collaboration · Adaptability · Clear Communication · Time Management · Attention to Detail
+
+---
+
 ###  Featured Project — Smart App
 
 Cross-platform mobile app (capstone project) built with **Flutter**, combining AI-assisted guidance, real-time mapping, and safety monitoring in one system. I worked on relational database design, front-end screens, and overall UX flow — delivered across 8 Agile sprints with a 7-person team.
@@ -46,27 +68,6 @@ Interactive Power BI dashboard on Azure, turning raw sales data into clear, acti
 
 ---
 
-###  Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-9c2b34?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML%2FCSS-E44D26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-**Soft skills:** Problem Solving · Team Collaboration · Adaptability · Clear Communication · Time Management · Attention to Detail
-
----
 
 ###  Background
 
