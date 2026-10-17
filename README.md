@@ -20,7 +20,7 @@
 -  ompleted a two-month summer cooperative training at**Smart Methods**, with a primary focus on web and application development.
 -  Built a PHP/MySQL web application and contributed to a Flutter/Firebase **graduation project**.
 -  Familiar with Git/GitHub, database design, JavaScript, AJAX, and secure coding practices.
-- * Open to entry-level opportunities in **software development and web development**.
+- Open to entry-level opportunities in **software development and web development**.
 ---
 
 ###  Tools & Technologies
@@ -65,8 +65,9 @@ Cross-platform mobile app (capstone project) built with **Flutter**, combining A
 
 ###  Other Projects
 
-**[Azure Sales Analytics Dashboard](https://github.com/Reemkhalid1it/azure-sales-analytics-dashboard)**
-Interactive Power BI dashboard on Azure, turning raw sales data into clear, actionable visuals.
+**[Student Records Web Application](https://github.com/Reemkhalid1it/Summer_Training/tree/main/Web%26Application-programs/Student-Records-Web-App)**
+Tech Stack: PHP, MySQL, JavaScript, AJAX
+A web application developed to manage student records, featuring CRUD operations and AJAX-based status updates without page reloads. Uses MySQL prepared statements to help prevent SQL injection.
 
 ---
 
@@ -76,7 +77,7 @@ Interactive Power BI dashboard on Azure, turning raw sales data into clear, acti
 | Period | Role | Organization |
 |---|---|---|
 | 2020 – 2026 | Bachelor of Information Technology | Taif University |
-| 2026 – Present | Full-Stack Software Development Trainee | Smart Methods |
+| 2026 | Full-Stack Software Development Trainee | Smart Methods |
 | 2024 – 2026 | Programming & AI Club Member | Taif University |
 | Ongoing | Currently Learning: Cloud & Data (AZ-900, PL-300) | — |
 
