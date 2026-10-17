@@ -17,7 +17,7 @@
 ###  About Me
 
 -  IT graduate from **Taif University** (2020 – 2026)
--  ompleted a two-month summer cooperative training at**Smart Methods**, with a primary focus on web and application development.
+-  ompleted a two-month summer cooperative training at **Smart Methods**, with a primary focus on web and application development.
 -  Built a PHP/MySQL web application and contributed to a Flutter/Firebase **graduation project**.
 -  Familiar with Git/GitHub, database design, JavaScript, AJAX, and secure coding practices.
 - Open to entry-level opportunities in **software development and web development**.
