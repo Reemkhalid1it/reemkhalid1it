@@ -64,7 +64,7 @@ Cross-platform mobile app (capstone project) built with **Flutter**, combining A
 
 ###  Other Projects
 
-**[Student Records Web Application](https://github.com/Reemkhalid1it/Summer_Training/tree/main/Web%26Application-programs/Student-Records-Web-App)**
+**[Student Records Web Application](https://github.com/Reemkhalid1it/Student-Records-Web-App)**
 Tech Stack: PHP, MySQL, JavaScript, AJAX
 A web application developed to manage student records, featuring CRUD operations and AJAX-based status updates without page reloads. Uses MySQL prepared statements to help prevent SQL injection.
 
