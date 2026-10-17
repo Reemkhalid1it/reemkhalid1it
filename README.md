@@ -45,7 +45,7 @@
 
 ---
 
-###  Featured Project — Smart App (https://github.com/Reemkhalid1it/Smart-App-Yusr)
+###  [Featured Project — Smart App] (https://github.com/Reemkhalid1it/Smart-App-Yusr)
 
 Cross-platform mobile app (capstone project) built with **Flutter**, combining AI-assisted guidance, real-time mapping, and safety monitoring in one system. I worked on relational database design, front-end screens, and overall UX flow — delivered across 8 Agile sprints with a 7-person team.
 
