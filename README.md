@@ -17,11 +17,10 @@
 ###  About Me
 
 -  IT graduate from **Taif University** (2020 – 2026)
--  Currently a **Full-Stack Software Development Trainee** at **Smart Methods**, working across web, mobile, AI, robotics, and mechanical engineering projects
--  Member of the **Programming & AI Club**, Taif University
--  Currently learning: **Microsoft Azure (AZ-900)** and **Power BI (PL-300)**
--  Open to opportunities in **software development, web development, or data analysis**
-
+-  ompleted a two-month summer cooperative training at**Smart Methods**, with a primary focus on web and application development.
+-  Built a PHP/MySQL web application and contributed to a Flutter/Firebase **graduation project**.
+-  Familiar with Git/GitHub, database design, JavaScript, AJAX, and secure coding practices.
+- * Open to entry-level opportunities in **software development and web development**.
 ---
 
 ###  Tools & Technologies
